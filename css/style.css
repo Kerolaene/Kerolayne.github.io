@@ -1,0 +1,8 @@
+html,body,header,#intro{
+	height: 100%
+}
+#intro{
+	background-image: url("C:/bood/img/2.jpg");
+	-webkit-background-size:cover;
+	background-size: cover;
+}
